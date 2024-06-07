@@ -1,0 +1,16 @@
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\BUS.exe.config
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\BUS.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DAO.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DTO.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DAO.pdb
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DAO.exe.config
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DTO.pdb
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DTO.exe.config
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.csproj.Up2Date

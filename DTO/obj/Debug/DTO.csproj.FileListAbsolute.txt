@@ -1,0 +1,9 @@
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\bin\Debug\DTO.exe.config
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\bin\Debug\DTO.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\bin\Debug\DTO.pdb
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.exe
+D:\DABC_LTQL\QuanLyKhachSan\QuanLyKhachSan\DTO\obj\Debug\DTO.pdb
